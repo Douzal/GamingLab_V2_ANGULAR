@@ -1,0 +1,25 @@
+span {
+    font-family: 'Oswald', Arial;
+    color: white;
+}
+
+span:hover {
+    background-color: #fed136;
+}
+
+input {
+    max-width: 100px;
+}
+
+span, input {
+    margin-left:10px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 2px 10px;
+    margin-right: 10px;
+    background: transparent;
+    color: white;
+    border: none;
+}
